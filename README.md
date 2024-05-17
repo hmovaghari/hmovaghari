@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmovaghari
+- 👋 Hi, I’m Hamed Movaghari
 - 🔭 I’m currently working on https://www.virasystemco.com
 - 🌱 I’m currently learning cross-platform programming.
 - 👯 I’m looking to collaborate with Software and programming companies.
