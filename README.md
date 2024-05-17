@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**hmovaghari/hmovaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👋 Hi, I’m @hmovaghari
 - 🔭 I’m currently working on https://www.virasystemco.com
 - 🌱 I’m currently learning cross-platform programming.
 - 👯 I’m looking to collaborate with Software and programming companies.
@@ -14,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram, Instagram (@hmovaghari)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🛌👨‍💻☕🐞☠
+
+<!--
+**hmovaghari/hmovaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
