@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Telegram, Instagram (@hmovaghari)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 🛌👨‍💻☕🐞☠
+- ⚡ Fun fact: 💤👨‍💻☕🐞⏮
 
 <!--
 **hmovaghari/hmovaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
