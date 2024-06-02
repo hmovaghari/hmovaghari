@@ -6,7 +6,7 @@
 - 👨‍💻 My programming languages is [<img height="16" src="https://hmovaghari.github.io/contents/images/csharp.png" title="Csharp C#">](https://dotnet.microsoft.com/en-us/languages/csharp),
 [<img height="16" src="https://hmovaghari.github.io/contents/images/html.png" title="HTML">](https://www.w3schools.com/html), [<img height="16" src="https://hmovaghari.github.io/contents/images/css.png" title="CSS">](https://www.w3schools.com/Css/), [<img height="16" src="https://hmovaghari.github.io/contents/images/javascript.png" title="javascript js">](https://www.w3schools.com/js/).
 - 📫 How to reach me: [📧](https://hmovaghari.github.io/#contact:en)
-- 🌍 My Social Networks : [<img height="16" src ="http://hmovaghari.ir/contents/images/github.png">](https://github.com/hmovaghari)
+- 🌍 My Social Networks is [<img height="16" src="http://hmovaghari.ir/contents/images/github.png" title="github">](https://github.com/hmovaghari), [<img height="16" src="http://hmovaghari.ir/contents/images/linkedin.png" title="linkedin">](https://www.linkedin.com/in/hamed-movaghari-72a5a830), [<img height="16" src="http://hmovaghari.ir/contents/images/scholar.png" title="google scholar">](https://scholar.google.com/citations?user=vY4cIsQAAAAJ&hl=en), [<img height="16" src="http://hmovaghari.ir/contents/images/researchgate.png" title="researchgate">](https://www.researchgate.net/profile/Hamed-Movaghari), [<img height="16" src="http://hmovaghari.ir/contents/images/goodreads.png" title="goodreads">](https://www.goodreads.com/hmovaghari)
 - ⚡ Fun fact: ▶👨‍💻🐞☕💤⏮
 
 <!--
