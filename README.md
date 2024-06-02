@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamed Movaghari (@hmovaghari)
+- 👋 Hi, I’m Hamed Movaghari (@hmovaghari) (حامد موقری)
 - 🌐 My GitHub page is [https://hmovaghari.github.io](https://hmovaghari.github.io)
 - 🔭 I’m currently working on  [ViraSystem](https://www.virasystemco.com).
 - 🌱 I’m currently learning cross-platform programming.
