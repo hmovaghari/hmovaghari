@@ -2,7 +2,7 @@
 - 🌐 My GitHub page is https://hmovaghari.github.io
 - 🔭 I’m currently working on  [ViraSystem](https://www.virasystemco.com).
 - 🌱 I’m currently learning cross-platform programming.
-- 👯 I’m looking to collaborate with Software and programming companies.
+- 🤝 I’m looking to collaborate with Software and programming companies.
 - 👨‍💻 My programming languages is [<img height="16" src="https://hmovaghari.github.io/contents/images/csharp.png" title="Csharp C#">](https://dotnet.microsoft.com/en-us/languages/csharp),
 [<img height="16" src="https://hmovaghari.github.io/contents/images/html.png" title="HTML">](https://www.w3schools.com/html), [<img height="16" src="https://hmovaghari.github.io/contents/images/css.png" title="CSS">](https://www.w3schools.com/Css/), [<img height="16" src="https://hmovaghari.github.io/contents/images/javascript.png" title="javascript js">](https://www.w3schools.com/js/).
 <br/><br/>![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hmovaghari&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
