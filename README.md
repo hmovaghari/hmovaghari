@@ -21,7 +21,7 @@
 "16" src="http://hmovaghari.github.io/contents/images/stackoverflow.png" title="hamed movaghari stack overflow">](https://stackoverflow.com/users/6519065), [<img height="16" src="http://hmovaghari.github.io/contents/images/scholar.png" title
 ="hamed movaghari google scholar">](https://scholar.google.com/citations?user=vY4cIsQAAAAJ&hl=en), [<img height="16" src="http://hmovaghari.github.io/contents/images/researchgate.png" title="hamed movaghari researchgate">](https://www.researchgate.net/profile/Hamed-Movaghari), [<img height="16" src="http://hmovaghari.github.io/contents/images/goodreads.png" title="hamed movaghari goodreads">](https://www.goodreads.com/hmovaghari)
 
-# 😂Fun facts :
+# 😂 Fun facts :
 ▶👨‍💻🐞☕💤⏮
 
 # ✍️Random Dev Quote :
