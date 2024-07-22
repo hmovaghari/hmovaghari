@@ -11,8 +11,7 @@
 [<img height="16" src="https://hmovaghari.github.io/contents/images/html.png" title="HTML">](https://www.w3schools.com/html), [<img height="16" src="https://hmovaghari.github.io/contents/images/css.png" title="CSS">](https://www.w3schools.com/Css/), [<img height="16" src="https://hmovaghari.github.io/contents/images/javascript.png" title="javascript js">](https://www.w3schools.com/js/), [<img height="16" src="https://hmovaghari.github.io/contents/images/sql-server.png" title="sql server tsql">](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
 # 📊 GitHub Stats :
-![Hamed Movaghari Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hmovaghari&langs_count=8&layout=compact&theme=dracula
-)
+![Hamed Movaghari Most Used Languages](https://api.githubtrends.io/user/svg/hmovaghari/langs?time_range=all_time&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
 <br/><br/>![Hamed Movaghari GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmovaghari&show_icons=true&theme=dracula)
 
 # 🌍 Socials :
