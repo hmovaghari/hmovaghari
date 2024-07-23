@@ -13,7 +13,6 @@
 # 📊 GitHub Stats :
 ![Hamed Movaghari Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hmovaghari&langs_count=8&layout=compact&theme=dark
 )
-<br/><br/>![Hamed Movaghari Most Used Languages](https://api.githubtrends.io/user/svg/hmovaghari/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=dark)
 <br/><br/>![Hamed Movaghari GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmovaghari&show_icons=true&theme=dark)
 
 # 🌍 Socials :
