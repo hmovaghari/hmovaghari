@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 👨‍💻 About Me :
-- 👋 Hi, I’m H Movaghari (@hmovaghari)
+- 👋 Hi, I’m Hamed Movaghari (@hmovaghari)
 - 🌐 My GitHub page is https://hmovaghari.github.io
 - 🔭 I’m currently working on [@Vira-System](https://github.com/Vira-System).
 - 🌱 I’m currently learning cross-platform programming.
