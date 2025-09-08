@@ -17,9 +17,9 @@
 <br/><br/>![H Movaghari GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmovaghari&show_icons=true&theme=dark)
 
 # 🌍 Socials :
-[<img height="16" src="http://hmovaghari.github.io/contents/images/github.png" title="h movaghari github">](https://github.com/hmovaghari), [<img height=
-"16" src="http://hmovaghari.github.io/contents/images/linkedin.png" title="h movaghari linkedin">](https://www.linkedin.com/in/h-movaghari-72a5a830), [<img height=
-"16" src="http://hmovaghari.github.io/contents/images/stackoverflow.png" title="h movaghari stack overflow">](https://stackoverflow.com/users/6519065).
+[<img height="16" src="http://hmovaghari.github.io/contents/images/github.png" title="hamed movaghari github">](https://github.com/hmovaghari), [<img height=
+"16" src="http://hmovaghari.github.io/contents/images/linkedin.png" title="h movaghari linkedin">](https://www.linkedin.com/in/hamed-movaghari-72a5a830), [<img height=
+"16" src="http://hmovaghari.github.io/contents/images/stackoverflow.png" title="hamed movaghari stack overflow">](https://stackoverflow.com/users/6519065).
 
 # 😂 Fun facts :
 ▶👨‍💻🐞☕💤⏮
