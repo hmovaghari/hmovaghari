@@ -15,7 +15,7 @@
 ![H Movaghari Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hmovaghari&langs_count=8&layout=compact&theme=dark
 )
 <br/><br/>![H Movaghari GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmovaghari&show_icons=true&theme=dark)
-<br/><br/>![H Movaghari GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmovaghari&layout=compact&theme=dark)
+<br/><br/>![H Movaghari GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmovaghari&theme=dark)
 
 # 🌍 Socials :
 [<img height="16" src="http://hmovaghari.github.io/contents/images/github.png" title="hamed movaghari github">](https://github.com/hmovaghari), [<img height=
